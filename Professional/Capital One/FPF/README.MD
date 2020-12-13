@@ -21,6 +21,7 @@ Before I joined the team, the report took a week to compile, as the analyst had 
 As a fan of automation and the power of Python I have increased the quality of the presentation, while reducing the time necessary to compile it.
 
 Using an automated scheduler I:
+
     1. Create a sequence of jobs which run every Friday at 5 am. These jobs create the tables used in monthly reporting, with the latest data.
     2. Run a master script. This script installs all necessary packages, creates all relevant variables, including the powerpoint object and then
     runs a series of scripts.
