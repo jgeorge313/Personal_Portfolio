@@ -27,6 +27,7 @@ Using an automated scheduler I:
 runs a series of scripts.
     A. Each script selects the data necessary for a section worth of graphs in the deliverable. The script, utilizing a Capital One built python package, takes those
 dataframes and creates automatically formatted powerpoint charts. 
+
     B. After running, each script, the script exports a powerpoint file of 52 slides, each already formatted
 This cuts a lot of repetetive manual work out of the process, and allows me to focus on the analyzing of the fraud trends itself and delivering the presentation.
 
