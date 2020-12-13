@@ -21,14 +21,12 @@ Before I joined the team, the report took a week to compile, as the analyst had 
 As a fan of automation and the power of Python I have increased the quality of the presentation, while reducing the time necessary to compile it.
 
 Using an automated scheduler I:
-
-1. Create a sequence of jobs which run every Friday at 5 am. These jobs create the data tables used in monthly reporting, refreshed with the latest data.
-2. Run a master script. This script installs all necessary packages, creates all relevant variables, including the powerpoint object and then
-runs a series of scripts.
-        A. Each script selects the data necessary for a section worth of graphs in the deliverable. The script, utilizing a Capital One built python package, takes those
-dataframes and creates automatically formatted powerpoint charts. 
+    1. Create a sequence of jobs which run every Friday at 5 am. These jobs create the tables used in monthly reporting, with the latest data.
+    2. Run a master script. This script installs all necessary packages, creates all relevant variables, including the powerpoint object and then
+    runs a series of scripts.
+        A. Each script selects the data necessary for the graphs in the deliverable. The script, utilizing a Capital One built python package, takes those
+    dataframes and creates automatically formatted powerpoint charts. 
         B. After running, each script, the script exports a powerpoint file of 52 slides, each already formatted
-This cuts a lot of repetetive manual work out of the process, and allows me to focus on the analyzing of the fraud trends itself and delivering the presentation.
 
 Additionally, since the master script is a modular framework - the team has expanded monitoring greatly from the 24 views we used to look at, as the team can continue to add new views and have them be output automatically without needing to do any of the manual work.
 
