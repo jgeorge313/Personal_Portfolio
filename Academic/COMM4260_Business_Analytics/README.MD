@@ -10,7 +10,7 @@ As the statistics major in the group, there were many parts of the project I was
 
 * [Lead Model Building process](https://docs.google.com/spreadsheets/d/1cTd5uGjXgF_-3J6KWbRs3bOccydrGfTOt1jeKCiscrw/edit?usp=sharing)
 * Translating the model into actionable and communicable business value
-* [Lead model cross validation process and taught best practices to teammates](https://docs.google.com/spreadsheets/d/1cTd5uGjXgF_-3J6KWbRs3bOccydrGfTOt1jeKCiscrw/edit#gid=1318390983)
+* [Lead model cross validation process and taught best practices to teammates](https://docs.google.com/spreadsheets/d/1cTd5uGjXgF_-3J6KWbRs3bOccydrGfTOt1jeKCiscrw/edit?usp=sharing)
 * Estimating the financial value of this business analytics project
 * Using Monte-Carlo Simulation to provide a confidence interval of our project's business value
 * Performed K-NN clustering to find 4 marketable and sizeable segments using the digital analytics data 
