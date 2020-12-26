@@ -8,6 +8,7 @@ Housed in the Academic Examples Folder are:
 2. A 75-minute interactive lesson plan for graduate and undergraduate students on Tableau and data Visualizations (Fall 2017).
 3. My final presentation as part of COMM 4320 Entertainment Marketing (Fall 2017).
 4. My final presentation as a part of COMM 4260 Business Analytics (Fall 2017).
+5. My final presentation as a part of COMM 4350 Customer Analytics and Brand Strategy (Spring 2018)
 
 ## Academic Background
 
