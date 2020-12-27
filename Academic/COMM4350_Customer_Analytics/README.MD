@@ -3,13 +3,12 @@ COMM 4350 - Customer Analytics and Brand Strategy was class I took spring 2018, 
 The course material, which covered:
     
     1. Brand Equity
-    2. The [UserTesting tool](https://www.usertesting.com/) for customer experience research
-    3. ZMET analysis
-    4. Social Analytics
-    5. Text Analytics
-    6. Multi-Variate analysis technics
+    2. ZMET analysis
+    3. Social Analytics
+    4. Text Analytics
+    5. Multi-Variate analysis technics
 
-guided the class's approach through the semester. 
+and the [UserTesting tool](https://www.usertesting.com/) for customer experience research helped guide the class's approach through the semester. 
 
 This portfolio contains the two final deliverables, a presentation presented to E&J Gallo Brand Representatives, and the proposed product brand charter. 
 
