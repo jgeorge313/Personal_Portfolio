@@ -19,15 +19,15 @@ This class was a blast! I'm happy to say it was my first A+ at the University of
 As a member of the team, my contributions included:
 
     1. Sanitizing and cleaning the raw survey data so analysis would be possible in R/ggplot2 
-    2. Performing competitive analysis on the under $15 alcoholic beverage industry, utilizing Ggplot2 to visualize the space (Pages 4-11 in the paper)
+    2. Performing competitive analysis on the under $15 alcoholic beverage industry, utilizing Ggplot2 to visualize the space
     3. Conducting K-NN to determine the number of unique brand profiles, and find a white-space in the market
     4. Build a Random Forest model in R to label a prospect into one of the customer persona
-    5. Performing a Principle Components Analysis on the Survey variables, developing customer segments from the relevant variables
+    5. Performing a Principle Components Analysis on the Survey variables to maximize informatoin gained
     6. Sensitivity analysis on Revenue expectations of the proposed brand charter
     
 # Data Sanitization and Cleaning
 
-The survey data given by E&J Gallo came in a manner I was prepared for -- dirty, not formatted and filled with plenty of NA's (see slide 32 of the presentation). To get from a mess of a csv to the long data format required for ggplot2, I leaned heavily on the tidyverse set of librarys in R utilizing Hadley Wickham's [R For Data Science] (https://r4ds.had.co.nz/). After setting values_drop_na = TRUE in the pivot_longer function, I was able to get to a starting point for futher analysis. 
+The survey data given by E&J Gallo came in a manner I was prepared for -- dirty, not formatted and filled with plenty of NA's (see slide 32 of the presentation). To get from a mess of a csv to the long data format required for ggplot2, I leaned heavily on the tidyverse set of librarys in R utilizing Hadley Wickham's [R For Data Science](https://r4ds.had.co.nz/). After setting values_drop_na = TRUE in the pivot_longer function, I was able to get to a starting point for futher analysis. 
 
 # Competitive Analysis
 
