@@ -1,6 +1,7 @@
 COMM 4350 - Customer Analytics and Brand Strategy was class I took spring 2018, my last semester as a part of the McIntire School of Commerce at UVa. Like other School of Commerce courses, the course sponsored with an industry partner - E&J Gallo. The goal of the project was extremely open-ended, propose a new alcoholic beverage that E&J Gallo should introduce in under $15 segment.
 
 The course material, which covered:
+    
     1. Brand Equity
     2. The [UserTesting tool](https://www.usertesting.com/) for customer experience research
     3. ZMET analysis
