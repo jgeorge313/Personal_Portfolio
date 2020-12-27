@@ -3,7 +3,7 @@
 
 ## What is First Party Fraud?
 
-First party fraud is defined as: Credit fraud in which a customer of a bank uses his or her own name and information to obtain high-value loans with no intention of paying them back. Also known as credit muling.[Source](https://www.creditcards.com/credit-card-news/glossary/term-first-party-fraud.php)
+First party fraud is defined as: Credit fraud in which a customer of a bank uses his or her own name and information to obtain high-value loans with no intention of paying them back. Also known as credit muling. [Source](https://www.creditcards.com/credit-card-news/glossary/term-first-party-fraud.php)
 
 ## Purpose of this repository
 This repository outlines the framework i used to create a modular, and scalable infrastructure that automates monthly reporting used for the First Party Fraud'S Monthly Business Report.
