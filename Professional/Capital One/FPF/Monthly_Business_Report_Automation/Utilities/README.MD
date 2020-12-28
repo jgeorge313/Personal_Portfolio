@@ -1,6 +1,6 @@
 # Utilities
 
-The Utilities folder contains two scripts that are helpful when compiling the MBR.
+The Utilities folder contains two scripts that are helpful when compiling the Monthly Business Report (MBR).
 
 To reduce code-clutter and promote consistency across the organization, Fraud analysts share a helper functions script that defines useful functions necessary to interact with data.
 
