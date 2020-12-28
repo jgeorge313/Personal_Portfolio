@@ -44,3 +44,18 @@ Unfortunately, there's no way to automate the Slide Description or deep dives, a
 ## Navigating this repository
 
 To get the best understanding of this process, I would recommend the audience start at the Data Creation Folder, then move-onto the graph creation folder and finally the trigger script itself.
+
+## Strengths of the infrastructure
+
+
+### Collaboration
+This repository has helped promote collaboration on the Monthly Business Report, as any analyst can modify the existing code if they encounter errors or need to make changes to the underlying scripts as data sources change.
+
+### Scalable
+Additionally, if new views are required, thanks to the trigger scipt, all you need to do is create a new script in the graph creation folder and add one line of code to the trigger script. This greatly simplifies and reduces clutter.
+
+### Modular 
+
+The most useful aspect of the trigger script framework is the **unit test** parameter. When running scripts from the trigger script, you can pass parameters that will influence the way a script is run. 
+
+Running the entire trigger script takes 3+ hours for the 50 slide output. If one section is erroneous it would be extremely painful to spend 3 hours to see whether or not changes made actually debugged the issue. To facilitate a faster debugging process, the unit test parameter was created. If an analyst sets unit test to 'yes', that particular script will email out the slides it created. This means that analysts can debug any one part of the chain without having to mess with the infrastructure or underlying graph creation scripts.
