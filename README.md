@@ -1,8 +1,8 @@
-# Personal_Portfolio
+# Personal Portfolio
 
-Weclome to my personal portfolio!
+Welcome to my personal portfolio!
 
-In this portfolio, I am striving to demonstrate how my experinces make me a qualified candidate.
+In this portfolio, I am striving to demonstrate how my experiences make me a qualified candidate.
 
 I've organized this portfolio into three sections:
 
@@ -19,6 +19,7 @@ Housed in the Academic Examples Folder are:
     2. A 75-minute interactive lesson plan for graduate and undergraduate students on Tableau and data Visualizations (Fall 2017).
     3. My final presentation as part of COMM 4320 Entertainment Marketing (Fall 2017).
     4. My final presentation as a part of COMM 4260 Business Analytics (Fall 2017).
+    5. My final Presentation as a part of COMM 4350 Customer Analytics (Spring 2018)
 
 ## Professional Work
 
@@ -30,7 +31,7 @@ The repository was built out in my first month, and has still been served as the
 
 ## Passions
 
-Outside of my passion for Data Science, listening to music has been a passion of mine. In the Passions folder, I've included my Spotify Wrapped 2019 summary. Since 2017, i listened to music via Spotify for at least **84 days each year**, or around 25% of the 365 day year (no I don't leave the application running when I went to sleep). 
+Outside of my passion for Data Science, listening to music has been a passion of mine. In the Passions folder, I've included my Spotify Wrapped 2019 summary. Since 2017, I listened to music via Spotify for at least **84 days each year**, or around 25% of the 365 day year (no I don't leave the application running when I went to sleep). 
 
 Music was a gateway to a different world, one that the artist was trying to take me to. I relish discovering the tiniest details in production or mixing of my favorite song, even more so if i've already listened to the song dozens of times. Music was also the tie to the community that supported me in a rigorous academic environment. Ater a long day of classes and group work, I would often find myself at a friends apartment turned studio. At the studio, I would mull on some of my business curriculua case readings while my friends experimented patiently, changing the inflection of the vocals, slowing the tempo down, and etc. Soaking up  creativity and the creative process from my friends has only increased my appreciation for a great song. 
 
