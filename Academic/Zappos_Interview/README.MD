@@ -1,3 +1,5 @@
+## Zappos Take Home Interview Submission
+
 The "10.15.17 Zappos Marketing Analytics Internship Presentation - Joby George.pdf" is the presentation I submitted as part of a Zappos Marketing Analytics Internship fall semester my Junior Year in college. For this interview, Zappos sent over a CSV data file of aggregated footwear industry sales data and tasked applicants to submit their findings after 3 days time.
 
 In my response, I emphasized my communications knowledge by presenting the bottom line up front and then proposed my recommendations to what the problems I thought were most important, yet addressable from the data given.
