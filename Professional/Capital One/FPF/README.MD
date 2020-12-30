@@ -23,5 +23,5 @@ As a fan of automation and the power of Python I have increased the quality of t
 
 ## Sample Slide
 
-In this folder, you can find an example of how the process produces output in the Fraud Losses by Segment picture. The code basis that generated the slide can be found in the graph creation folder, titles **fraud losses**. Note the data are fictional
+In this folder, you can find an example of how the process produces output in the Fraud Losses by Segment picture. The code basis that generated the slide can be found in the graph creation folder, titled **fraud losses**. Note the data are fictional
 
