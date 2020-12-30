@@ -1,48 +1,20 @@
-# Personal Portfolio
+# Main Contents
 
-Welcome to my personal portfolio!
-
-In this portfolio, I am striving to demonstrate how my experiences make me a qualified candidate.
-
-I've organized this portfolio into three sections:
-
-    Academic Examples
-    Professional Work
-    Passions
-    
-
-## Academic Examples
+This repository contains work I've done that utilizes data science principals while I was at the University in Virginia (UVa).
 
 Housed in the Academic Examples Folder are:
 
-    1. Past materials from a final round interview I had with Zappos as a Data Science Intern (Fall 2016).
-    2. A 75-minute interactive lesson plan for graduate and undergraduate students on Tableau and data Visualizations (Fall 2017).
-    3. My final presentation as part of COMM 4320 Entertainment Marketing (Fall 2017).
-    4. My final presentation as a part of COMM 4260 Business Analytics (Fall 2017).
-    5. My final Presentation as a part of COMM 4350 Customer Analytics (Spring 2018)
+        1.	Past materials from a final round interview I had with Zappos as a Data Science Intern (Fall 2016).
+        2.	A 75-minute interactive lesson plan for graduate and undergraduate students on Tableau and data Visualizations (Fall 2017).
+        3.	My final presentation as part of COMM 4320 Entertainment Marketing (Fall 2017).
+        4.	My final presentation as a part of COMM 4260 Business Analytics (Fall 2017).
+        5.	My final presentation as a part of COMM 4350 Customer Analytics and Brand Strategy (Spring 2018)
 
-## Professional Work
+## Academic Background
 
-I am not allowed to replicate the code I have written as a part of Capital One due to confidentiality. 
-
-However, in the Professional Work section, I describe the process that the team uses to complete monthly required monitoring that gets sent out to external regulators such as the OCC. 
-
-The repository was built out in my first month, and has still been served as the monitoring skeleton we use to complete First Party Fraud monitoring.
-
-## Passions
-
-Outside of my passion for Data Science, listening to music has been a passion of mine. In the Passions folder, I've included my Spotify Wrapped 2019 summary. Since 2017, I listened to music via Spotify for at least **84 days each year**, or around 25% of the 365 day year (no I don't leave the application running when I went to sleep). 
-
-Music was a gateway to a different world, one that the artist was trying to take me to. I relish discovering the tiniest details in production or mixing of my favorite song, even more so if i've already listened to the song dozens of times. Music was also the tie to the community that supported me in a rigorous academic environment. Ater a long day of classes and group work, I would often find myself at a friends apartment turned studio. At the studio, I would mull on some of my business curriculua case readings while my friends experimented patiently, changing the inflection of the vocals, slowing the tempo down, and etc. Soaking up  creativity and the creative process from my friends has only increased my appreciation for a great song. 
-
-I believe that Data Science will have a strong impact on the music industry from automated music generation to marketing tactics, the hard to define field of art and entertainment will be increasingly monitored and measured. With the industry already changing rapidly due to music streaming and social media, there is a seemingly narrower and narrower gap for up-and-coming aritsts to squeeze through, as powerful brands and artists flex their dominance. After graduating, I'm hoping to make a difference in this field and ensure that artists can continue to have shot at making it. 
-
-### Mental Health
-
-Music and the artistic community has helped me through trying times. However, I'm not ashamed to say that life after graduation, and the loss of that community caused me to take a step back in my mental health. After falling on rough times and not knowing how to get better, I asked for the help I needed. Getting it wasn't easy, but the pain made clear the need to take care of myself. To meet this need I've committed to a foundation of exercise, meditation via the Headspace app, journaling accompanied with therapy. 
-
-As Laurie Santos describes in her famous course [The Science of Well-being](https://www.coursera.org/learn/the-science-of-well-being), being happy is not a passive state, but rather an active process. Creating a space where your physical and emotional needs are taken care of is an ever-changing dance, but it's an often ignored, yet imperative behavior when trying to 'be happy'.
+Before going to college, I was blessed with the opportunity to take fundamental math courses (Calc 1,2, AP Stats) as well as the encouragement to use data to predict the future. At Maggie Walker Governor's school, located in Richmond Virginia, seniors were required to take a senior seminar. I enrolled in Freakonomics, a seminar that like it's namesake, was devoted to exploring the relationships between different phenomena in a quantitative fashion. The Titanic Kaggle challenge was my first introduction to the field, and I remember spending hours trying various feature manipulations in order to get promising test-set predictions. The thrill of discovery and experimentation with data in Excel made a lasting impression and led me to my Statistics major at the University of Virginia.
+Having completed 50 credits as a high-school student, I freed up enough space in my schedule for a double major in Commerce and Statistics. The McIntire's School of Commerce selection of only the sharpest UVa undergraduate students resulted in a phenomenal, team driven learning enviornment. Each day, as students discussed various business scenarios, my critical thinking skill grew and grew. Additionally, the real world examples served as an excellent opportunity to combine some of my statistic major skills to solve problems.
 
 
-
+For example, within the Business Analytics Folder is my final presentation for COMM 4260 Business Analytics. The project used real data provided to us by our corproate partner, ApartmentGuide.com to provide a strategy regarding retargetting prospects. I'm happy to say that my team's presentation was chosen by the professor as the exemplar presentation used in the following semester :).
 
