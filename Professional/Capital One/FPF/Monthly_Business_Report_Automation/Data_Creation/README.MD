@@ -2,7 +2,7 @@
 
 This repository is being used for illustrative purposes and is in no way representative of the entire Data Creation process in the actual First Party Fraud MBR.
 
-From the two scripts highlighted, one can understand the data creation process. Essentially, each script runs every Friday, updating the data sources with the most recent data. The first Friday month is when data for the past month has matured for analytical purposes.
+From the two scripts highlighted, one can understand the data creation process. Essentially, each script runs on a databricks scheduled job at 4 A.M. each Friday, updating the data sources with the most recent data. The first Friday month is when data for the past month has matured for analytical purposes.
 
 At that point in time, analysts can visualize last month's performance using the trigger script.
 
