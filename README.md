@@ -1,21 +1,27 @@
 # Personal Portfolio
 
-Welcome to my personal portfolio!
+Welcome to my personal portfolio which is specifically focused on highlighting relevant university assignments and work experience for a Master's in Data Science.
 
-In this portfolio, I am striving to demonstrate how my experiences make me a qualified candidate.
+Given the amount of content in this portfolio, I wanted to take a moment to outline how the portfolio is organized and what is demonstrated in each section.
 
 I've organized this portfolio into three sections:
 
     Academic Examples
     Professional Work
     Passions
-    
+
+The Academic Examples section showcases numerous analytic based team projects that I completed my junior and senior year at the McIntire School of Commerce at the University of Virginia and a guide on Tableau I made as a teaching assistant for Database Management (COMM 3220).
+Software used includes R, RapidMiner, Tableau, and a little bit of Python.
+
+My Professional Work section utilizes pseudo-code to demonstrate the First Party Fraud Monthly Monitoring Repository. The Repository outlines a beginning-to-end process of monitoring business and Fraud defense performance. Starting with data collection, then moving to data wrangling and massaging, all the way to data presentation in the form of PowerPoint Slides (the final outcome). Software used include: Databricks (Python language and Pandas), SQL.
+
+Lastly, the Passions section of the portfolio is meant to provide a deeper context of who I am outside of my academic and professional qualifications. 
 
 ## Academic Examples
 
 Housed in the Academic Examples Folder are:
 
-    1. Past materials from a final round interview I had with Zappos as a Data Science Intern (Fall 2016).
+    1. Past materials from a final round interview I had with Zappos as a Data Science Intern (Fall 2017).
     2. A 75-minute interactive lesson plan for graduate and undergraduate students on Tableau and data Visualizations (Fall 2017).
     3. My final presentation as part of COMM 4320 Entertainment Marketing (Fall 2017).
     4. My final presentation as a part of COMM 4260 Business Analytics (Fall 2017).
@@ -31,7 +37,7 @@ The repository was built out in my first month, and has still been served as the
 
 ## Passions
 
-Outside of my passion for Data Science, listening to music has been a passion of mine. In the Passions folder, I've included my Spotify Wrapped 2019 summary. Since 2017, I listened to music via Spotify for at least **84 days each year**, or around 25% of the 365 day year (no I don't leave the application running when I went to sleep). 
+Outside of my passion for Data Science, listening to music has been a life-long passion of mine. In the Passions folder, I've included my Spotify Wrapped 2019 summary. Since 2017, I listened to music via Spotify for at least **84 days each year**, or around 25% of the 365 day year (no I don't leave the application running when I went to sleep). 
 
 Music was a gateway to a different world, one that the artist was trying to take me to. I relish discovering the tiniest details in production or mixing of my favorite song, even more so if i've already listened to the song dozens of times. Music was also the tie to the community that supported me in a rigorous academic environment. Ater a long day of classes and group work, I would often find myself at a friends apartment turned studio. At the studio, I would mull on some of my business curriculua case readings while my friends experimented patiently, changing the inflection of the vocals, slowing the tempo down, and etc. Soaking up  creativity and the creative process from my friends has only increased my appreciation for a great song. 
 
