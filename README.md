@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-Welcome to my personal portfolio which is specifically focused on highlighting relevant university assignments and work experience for a Master's in Data Science.
+Welcome to my personal portfolio which is specifically focused on highlighting relevant university assignments and work experience for Spotify's Business Intelligence Analyst Positoin.
 
 Given the amount of content in this portfolio, I wanted to take a moment to outline how the portfolio is organized and what is demonstrated in each section.
 
