@@ -43,12 +43,3 @@ Music was a gateway to a different world, one that the artist was trying to take
 
 I believe that Data Science will have a strong impact on the music industry from automated music generation to marketing tactics, the hard to define field of art and entertainment will be increasingly monitored and measured. With the industry already changing rapidly due to music streaming and social media, there is a seemingly narrower and narrower gap for up-and-coming aritsts to squeeze through, as powerful brands and artists flex their dominance. After graduating, I'm hoping to make a difference in this field and ensure that artists can continue to have shot at making it. 
 
-### Mental Health
-
-Music and the artistic community has helped me through trying times. However, I'm not ashamed to say that life after graduation, and the loss of that community caused me to take a step back in my mental health. After falling on rough times and not knowing how to get better, I asked for the help I needed. Getting it wasn't easy, but the pain made clear the need to take care of myself. To meet this need I've committed to a foundation of exercise, meditation via the Headspace app, journaling accompanied with therapy. 
-
-As Laurie Santos describes in her famous course [The Science of Well-being](https://www.coursera.org/learn/the-science-of-well-being), being happy is not a passive state, but rather an active process. Creating a space where your physical and emotional needs are taken care of is an ever-changing dance, but it's an often ignored, yet imperative behavior when trying to 'be happy'.
-
-
-
-
