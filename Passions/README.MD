@@ -8,7 +8,4 @@ After taking the Entertainment Industry marketing course as a part of the McInti
 
 I would love to gain experience and potentially further my career in the music industry, as the applications of data science expand.
 
-## Data Science
 
-As I begin my Masters at NYU in Data Science, I wanted to build out a repository that can be consulted for future projects with modular, useful code.
-In pursuit of this, I'm starting the [Kaggle 30 days of ML](https://www.kaggle.com/thirty-days-of-ml) challenge on August 2nd, 2021. My work and notes can be found in the folder titled "30 days of ML 2021".	
