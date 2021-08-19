@@ -6,7 +6,7 @@
 First party fraud is defined as: Credit fraud in which a customer of a bank uses his or her own name and information to obtain high-value loans with no intention of paying them back. Also known as credit muling. [Source](https://www.creditcards.com/credit-card-news/glossary/term-first-party-fraud.php)
 
 ## Purpose of this repository
-This repository outlines the framework i used to create a modular, and scalable infrastructure that automates monthly reporting used for the First Party Fraud'S Monthly Business Report.
+This repository outlines the framework i used to create a modular, and scalable infrastructure that automates monthly reporting used for the First Party Fraud's Monthly Business Report Powerpoint presentation.
 
 This is a routine, but business critical output that gets sent to regulators such as the OCC monthly. The primary purpose of this monitoring is to understand emergent fraud trends, and measure performance of new defenses.
 
@@ -14,7 +14,7 @@ Before I joined the team, the report took a week to compile, as the analyst had 
 
 1. manually run the SQL that would create the underlying views necessary for the graphs in the deliverable
 2. Run the select queries on those tables
-3. Create the graphs using the data above
+3. Create the graphs using the data above in Excel/PowerPoint
 4. Format the slides in the report
 5. Analyze and Interpret the month's performance
 6. Deliver the presentation
