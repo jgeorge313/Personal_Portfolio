@@ -6,6 +6,6 @@ Within this folder, I've attached my Spotify 2019 Wrapped, which highlights that
 
 After taking the Entertainment Industry marketing course as a part of the McIntire School of Commerce, the problem space in the industry of connecting with and engaging fans is exciting. With all of the technoligical and computational changes in the past 10 years, the industry is well poised for a shift as consumers embrace streaming and are looking for the next era of music consumption.
 
-I would love to gain experience and potentially further my career in the music industry, as the applications of data science expand.
+I would love to gain experience and potentially further my career in the music industry, particularly in recommendations.
 
 
