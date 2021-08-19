@@ -33,7 +33,7 @@ Mimicking the Report workflow, the repository follows a similar process:
     2. Graph Creation Scripts
     3. Trigger Script
     
-To complete the first task of having up-to-date data, I created scripts that run on a weekly automated cadence. The scripts pull KPI, so that each Friday, we have the latest de-aggregated data automatically. If there are errors in this process on a given week, analysts will know before they attepmt to create the report giving them precious debugging time. 
+To complete the first task of having up-to-date data, I created scripts that run on a weekly automated cadence using Databricks Scheduler. The scripts pull KPI, so that each Friday, we have the latest de-aggregated data automatically. If there are errors in this process on a given week, analysts will know before they attepmt to create the report giving them precious debugging time. 
 
 The second through fourth tasks, the meat of the report are done primarily through the Graph Creation Scripts. These scripts pull from the data sources created from the Data Creation Scripts, aggregating them at a monthly level, and formatting them for the visualizations used in the report. The formatting is aided by the **Trigger Script.**
 
@@ -49,7 +49,7 @@ To get the best understanding of this process, I would recommend the audience st
 
 
 ### Collaboration
-This repository has helped promote collaboration on the Monthly Business Report, as any analyst can modify the existing code if they encounter errors or need to make changes to the underlying scripts as data sources change.
+This repository has helped promote collaboration on the Monthly Business Report, as any analyst can modify the existing code if they encounter errors or need to make changes to the underlying scripts as data sources change. If a data source changes, the analyst would just push the change to the team github, and other team-members can pull the most updated versin.
 
 ### Scalable
 Additionally, if new views are required, thanks to the trigger scipt, all you need to do is create a new script in the graph creation folder and add one line of code to the trigger script. This greatly simplifies and reduces clutter.
